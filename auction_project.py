@@ -1,7 +1,7 @@
 # Secret Auction Project
 
-from auction_art import hammer
-print(hammer)
+from auction_art import logo
+print(logo)
 print("Welcome to the secret auction!")
 def find_highest_bidder(bidding_dictionary):
     winner = ""
